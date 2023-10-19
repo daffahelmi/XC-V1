@@ -17,7 +17,7 @@ $ apt update && apt upgrade
 $ apt install nodejs
 
 
-$ qpt install unzip
+$ apt install unzip
 
 
 $ apt install python3
@@ -55,7 +55,7 @@ $ python3 cnc.py
 
 
 untuk menghentikan serangan DDoS kalian cukup
-menunggunya sesuai yang kamu setting dan jika
+menunggunya sesuai yang kamu setting dan jika serangan
 itu tetap di lanjutkan maka pencet CTRL + Z untuk stop !
 
 
@@ -67,5 +67,5 @@ itu tetap di lanjutkan maka pencet CTRL + Z untuk stop !
 
 ⚠️Disclaimer
 SC ini di tujukan untuk pengembangan website dari setiap organisasi
-tidak untuk tindakan kriminal
-sc ini di tujukan untuk pemelitian dan pengujian ketahanan site !
+tidak untuk tindakan kriminal,
+sc ini di tujukan untuk penelitian dan pengujian ketahanan site !
