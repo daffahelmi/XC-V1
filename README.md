@@ -5,6 +5,10 @@
 
 DDOS TOOLS BY XINNCLAY
 YouTube : https://youtube.com/@xinnclay
+
+
+
+Cara Penginstalannya
 	
 
 	
