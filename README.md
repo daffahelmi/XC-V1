@@ -35,6 +35,10 @@ $ unzip XCLITE.zip
 $ cd XCLITE
 
 
+$ pip install colorama / sudo pip install colorama
+
+
+
 $ python3 setting.py
 
 
