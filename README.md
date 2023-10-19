@@ -9,6 +9,27 @@ YouTube : https://youtube.com/@xinnclay
 
 
 Cara Penginstalannya
+
+
+$ apt update && apt upgrade
+
+
+$ apt install nodejs
+
+
+$ qpt install unzip
+
+
+$ apt install python3
+
+
+$ git clone https://github.com/XinnChan/XC-V1
+
+
+$ unzip XC-V1
+
+
+$ 
 	
 
 	
