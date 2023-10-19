@@ -57,7 +57,8 @@ maka kalian harus pakai COMMAND di bawah !
 
 $ python3 cnc.py
 
-
+user : xc@v1
+pw : xclite
 untuk menghentikan serangan DDoS kalian cukup
 menunggunya sesuai yang kamu setting dan jika serangan
 itu tetap di lanjutkan maka pencet CTRL + Z untuk stop !
